@@ -1,1 +1,4 @@
 # User_Registeration_Form_in_SpringBoot
+
+
+A CRUD (Create, Read, Update, Delete) application using Spring Boot and HTML would be a web application that allows users to perform basic data manipulation operations on a database through a web interface. The backend of the application would be built using Spring Boot, a Java-based framework for building stand-alone, production-grade Spring applications. Spring Boot would handle the communication between the frontend and backend, as well as the database operations using Spring Data. The frontend of the application would be built using HTML, CSS, and JavaScript. Users would interact with the application through a web browser, performing Create, Read, Update, and Delete operations on the data via the HTML-based UI. The application would use HTTP requests (GET, POST, PUT, DELETE) to communicate between the frontend and backend and perform the CRUD operations on the data stored in a database such as MySQL.
